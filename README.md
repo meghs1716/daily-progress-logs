@@ -6,3 +6,8 @@ Day 1 (2026-11-25): Revised python concepts like pydantic, decorators,context ma
 
 
 Day 2(2026-11-27): Brushed up fundamentals on Agents 
+
+
+Day 3(2026-11-28): Learnt architecture of ReAct Agents
+
+
